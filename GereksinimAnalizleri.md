@@ -49,7 +49,7 @@
 
 25.Blog Sayfasına İçerik Ekleme(Yaşar Berk Irgatoğlu)
 
-##Gereksinim Dağılımları
+## Gereksinim Dağılımları
 - [Neslihan Yağmurca'nın Gereksinimleri](https://github.com/nneslihanyy/BambiHermanos/blob/main/NeslihanYagmurcaGereksinimleri.md)
 - [Oğuz Berkay Bal'ın Gereksinimleri](https://github.com/nneslihanyy/BambiHermanos/blob/main/OguzBerkayBalGereksinimleri.md)
 - [Alperen Özdil'in Gereksinimleri](https://github.com/nneslihanyy/BambiHermanos/blob/main/AlperenOzdilGereksinimleri.md)
