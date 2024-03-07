@@ -17,5 +17,5 @@ Bu gereksinim, kullanıcıların mevcut kuponları görüntüleyebilmesini sağl
 #### 5-ÜRÜNE YORUM EKLEME : 
 Bu gereksinim, kullanıcıların site üzerinde bulunan ürünlere yorum ekleyebilmelerini sağlar. Bu sayede kullanıcılar ürünler hakkında deneyimlerini paylaşabilir ve diğer kullanıcıların alışveriş yaparken daha bilinçli kararlar almasına yardımcı olur.
 
-#### 6-BLOG SAYFASINA ELEMAN EKLEME
-Bu gereksinim, site yöneticilerinin veya yetkilendirilmiş kullanıcıların blog sayfasına yeni içerik ekleyebilmesini sağlar. Bu, müşterilere yeni ürünler hakkında bilgi vermek, sektör trendleri hakkında yazılar paylaşmak veya siteyi güncel tutmak için önemlidir.
+#### 6-BLOG SAYFASINA İÇERİK EKLEME :
+Bu gereksinim, site yöneticilerinin veya yetkilendirilmiş kullanıcıların blog sayfasına yeni içerik ekleyebilmesini sağlar. 
