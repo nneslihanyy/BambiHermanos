@@ -52,5 +52,5 @@
 ## Gereksinim Dağılımları
 - [Alperen Özdil'in Gereksinimleri](https://github.com/nneslihanyy/BambiHermanos/blob/main/AlperenOzdilGereksinimleri.md)
 - [Neslihan Yağmurca'nın Gereksinimleri](https://github.com/nneslihanyy/BambiHermanos/blob/main/NeslihanYagmurcaGereksinimleri.md)
-- [Yaşar Berk Irgatoğlu'nun Gereksinimleri](https://github.com/nneslihanyy/BambiHermanos/blob/main/YasarBerkIrgatogluGereksinimleri.md)
 - [Oğuz Berkay Bal'ın Gereksinimleri](https://github.com/nneslihanyy/BambiHermanos/blob/main/OguzBerkayBalGereksinimleri.md)
+- [Yaşar Berk Irgatoğlu'nun Gereksinimleri](https://github.com/nneslihanyy/BambiHermanos/blob/main/YasarBerkIrgatogluGereksinimleri.md)
