@@ -8,8 +8,8 @@ Bu gereksinim, kullanıcıların sepetlerine istedikleri ürünleri ekleyebilmel
 #### 2-SEPETTEN ÜRÜN SİLME :
  Bu gereksinim, kullanıcıların sepetlerinden istedikleri ürünleri kaldırabilmelerini sağlar.
 
-#### 3-SEPET TUTARI HESAPLAMA :
-Bu gereksinim, kullanıcıların sepetlerindeki ürünlerin toplam tutarını görmelerini sağlar.
+#### 3-BLOG İÇERİĞİNİ DÜZENLEME :
+Bu gereksinim, yöneticilerin blog sayfasındaki içerikleri düzenleyebilmelerini sağlar.
 
 #### 4-SİPARİŞ VEREBİLME : 
 Bu gereksinim, kullanıcıların sepetlerindeki ürünlerle birlikte bir sipariş oluşturabilmesini sağlar.
