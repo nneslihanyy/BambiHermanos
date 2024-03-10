@@ -15,7 +15,7 @@ HoneyRain
 
 **Proje Ekibi:** Neslihan YAĞMURCA,Oğuz Berkay BAL,Yaşar Berk IRGATOĞLU,Alperen ÖZDİL
 
-- [Proje Planı]
+- [Proje Planı](https://github.com/nneslihanyy/BambiHermanos/blob/main/ProjePlani.md)
 - [Gereksinim Analizi](https://github.com/nneslihanyy/BambiHermanos/blob/main/GereksinimAnalizleri.md)
 - [Durum Diyagramları]
 - [Durum Senaryoları]
