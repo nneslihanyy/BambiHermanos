@@ -17,7 +17,7 @@ HoneyRain
 
 - [Proje Planı](https://github.com/nneslihanyy/BambiHermanos/blob/main/ProjePlani.md)
 - [Gereksinim Analizi](https://github.com/nneslihanyy/BambiHermanos/blob/main/GereksinimAnalizleri.md)
-- [Durum Diyagramları](https://github.com/nneslihanyy/BambiHermanos/blob/main/UML%20diagrams.png)
+- [Durum Diyagramları](https://github.com/nneslihanyy/BambiHermanos/blob/main/UML%20diagrams%20(1).png)
 - [Durum Senaryoları](https://github.com/nneslihanyy/BambiHermanos/blob/main/DurumSenaryolar%C4%B1.md)
 - [Veritabanı Diyagramları]
 - [Front-End]
