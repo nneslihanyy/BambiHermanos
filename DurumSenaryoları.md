@@ -1,2 +1,2 @@
 - [Neslihan Yağmurca'nın Kullanıcı Senaryoları](https://github.com/nneslihanyy/BambiHermanos/blob/main/NeslihanYagmurcaKullaniciSenaryosu.pdf)
-- [Yaşar Berk Irgatoğlu'nun Kullanıcı Senaryoları](https://github.com/nneslihanyy/BambiHermanos/blob/main/YaşarBerkIrgatoğluKullanıcıSenaryosu.pdf)
+- [Yaşar Berk Irgatoğlu'nun Kullanıcı Senaryoları](https://github.com/nneslihanyy/BambiHermanos/blob/main/YasarBerkIrgatogluKullanıcıSenaryosu.pdf)
