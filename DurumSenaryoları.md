@@ -1,1 +1,1 @@
-Neslihan Yağmurca'nın Kullanıcı Senaryoları (https://github.com/nneslihanyy/BambiHermanos/blob/main/NeslihanYagmurcaKullaniciSenaryosu.pdf)
+[Neslihan Yağmurca'nın Kullanıcı Senaryoları] (https://github.com/nneslihanyy/BambiHermanos/blob/main/NeslihanYagmurcaKullaniciSenaryosu.pdf)
