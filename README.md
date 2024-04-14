@@ -19,7 +19,7 @@ HoneyRain
 - [Gereksinim Analizi](https://github.com/nneslihanyy/BambiHermanos/blob/main/GereksinimAnalizleri.md)
 - [Durum Diyagramları](https://github.com/nneslihanyy/BambiHermanos/blob/main/UML%20diagrams%20(2).png)
 - [Durum Senaryoları](https://github.com/nneslihanyy/BambiHermanos/blob/main/DurumSenaryolar%C4%B1.md)
-- [Veritabanı Diyagramları](https://github.com/nneslihanyy/BambiHermanos/blob/main/DatabaseDiagram.png)
+- [Veritabanı Diyagramları](https://github.com/nneslihanyy/BambiHermanos/blob/main/DatabaseDiagram1.png)
 - [Front-End]
 - [Back-End]
 - [Test]
