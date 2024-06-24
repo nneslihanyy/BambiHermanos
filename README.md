@@ -10,6 +10,9 @@ E-Ticaret
 **Referans Uygulama:** 
 https://www.bambiayakkabi.com.tr/
 
+**Uygulama Adresi:** 
+https://bambi-hermanos-frontend.vercel.app/
+
 **Grup Adı:**
 HoneyRain
 
