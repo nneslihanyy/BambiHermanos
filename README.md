@@ -23,4 +23,4 @@ HoneyRain
 - [Front-End]
 - [Back-End]
 - [Test]
-- [Geliştirici ve Kullanıcı Dökümantasyonları](https://github.com/nneslihanyy/BambiHermanos/blob/main/Gelistirici%26KullaniciDokumantasyonlari)
+- [Geliştirici ve Kullanıcı Dökümantasyonları](https://github.com/nneslihanyy/BambiHermanos/blob/main/Gelistirici%26KullaniciDokumantasyonlari.md)
