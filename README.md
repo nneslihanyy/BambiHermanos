@@ -23,7 +23,7 @@ HoneyRain
 - [Durum Diyagramları](https://github.com/nneslihanyy/BambiHermanos/blob/main/Diagram.png)
 - [Durum Senaryoları](https://github.com/nneslihanyy/BambiHermanos/blob/main/DurumSenaryolar%C4%B1.md)
 - [Veritabanı Diyagramları](https://github.com/nneslihanyy/BambiHermanos/blob/main/Dbdiagram.png)
-- [Front-End]
-- [Back-End]
+- [Front-End](https://github.com/nneslihanyy/BambiHermanos/tree/main/frontend)
+- [Back-End](https://github.com/nneslihanyy/BambiHermanos/tree/main/backend)
 - [Test]
 - [Geliştirici ve Kullanıcı Dökümantasyonları](https://github.com/nneslihanyy/BambiHermanos/blob/main/Gelistirici%26KullaniciDokumantasyonlari.md)
